@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\KakaoMBTI\bin\Debug\KakaoMBTI.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\KakaoMBTI\bin\Debug\KakaoMBTI.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\KakaoMBTI\bin\Debug\KakaoMBTI.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\KakaoMBTI\obj\Debug\KakaoMBTI.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\KakaoMBTI\obj\Debug\KakaoMBTI.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\KakaoMBTI\obj\Debug\KakaoMBTI.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\KakaoMBTI\obj\Debug\KakaoMBTI.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\KakaoMBTI\obj\Debug\KakaoMBTI.pdb
