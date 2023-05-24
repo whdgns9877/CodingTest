@@ -1,4 +1,4 @@
-﻿namespace SuperCatCodingTest
+﻿namespace Load_On_Truck
 {
     internal class Program
     {
