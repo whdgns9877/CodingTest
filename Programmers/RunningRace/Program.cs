@@ -1,36 +1,34 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
-namespace RunningRace
+public class Solution
 {
-    internal class Program
+    public string[] solution(string[] players, string[] callings)
     {
-        static void Main(string[] args)
+        Dictionary<string, int> playerPositions = new Dictionary<string, int>();
+
+        for (int i = 0; i < players.Length; i++)
         {
-            Solution solution = new Solution();
-            string[] players = new string[] { "mumu", "soe", "poe", "kai", "mine" };
-            string[] callings = new string[] { "kai", "kai", "mine", "mine" };
-            solution.solution(players, callings);
+            playerPositions[players[i]] = i;
         }
+
+        for (int i = 0; i < callings.Length; i++)
+        {
+            int idx = playerPositions[callings[i]];
+            if (idx > 0)
+            {
+                Swap(players, idx, idx - 1);
+                playerPositions[players[idx]] = idx;
+                playerPositions[players[idx - 1]] = idx - 1;
+            }
+        }
+
+        return players;
     }
 
-    public class Solution
+    private void Swap(string[] players, int idx1, int idx2)
     {
-        public string[] solution(string[] players, string[] callings)
-        {
-            for (int i = 0; i < callings.Length; ++i)
-            {
-                int idx = Array.IndexOf(players, callings[i]);
-                if (idx > 0)
-                {
-                    Array.Reverse(players, idx - 1, 2);
-                }
-            }
-
-            return players;
-        }
+        string temp = players[idx1];
+        players[idx1] = players[idx2];
+        players[idx2] = temp;
     }
 }
