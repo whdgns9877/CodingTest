@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutSortIndex\bin\Debug\CutSortIndex.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutSortIndex\bin\Debug\CutSortIndex.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutSortIndex\bin\Debug\CutSortIndex.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutSortIndex\obj\Debug\CutSortIndex.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutSortIndex\obj\Debug\CutSortIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutSortIndex\obj\Debug\CutSortIndex.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutSortIndex\obj\Debug\CutSortIndex.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutSortIndex\obj\Debug\CutSortIndex.pdb

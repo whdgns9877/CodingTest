@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PhoneNumber\bin\Debug\PhoneNumber.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PhoneNumber\bin\Debug\PhoneNumber.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PhoneNumber\bin\Debug\PhoneNumber.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PhoneNumber\obj\Debug\PhoneNumber.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PhoneNumber\obj\Debug\PhoneNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PhoneNumber\obj\Debug\PhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PhoneNumber\obj\Debug\PhoneNumber.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PhoneNumber\obj\Debug\PhoneNumber.pdb
