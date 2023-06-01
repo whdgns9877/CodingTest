@@ -1,0 +1,4 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ProgrammersSkillCheck\obj\Debug\ProgrammersSkillCheck.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ProgrammersSkillCheck\obj\Debug\ProgrammersSkillCheck.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ProgrammersSkillCheck\obj\Debug\ProgrammersSkillCheck.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ProgrammersSkillCheck\obj\Debug\ProgrammersSkillCheck.pdb
