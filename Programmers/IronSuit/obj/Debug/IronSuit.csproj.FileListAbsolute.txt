@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\IronSuit\bin\Debug\IronSuit.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\IronSuit\bin\Debug\IronSuit.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\IronSuit\bin\Debug\IronSuit.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\IronSuit\obj\Debug\IronSuit.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\IronSuit\obj\Debug\IronSuit.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\IronSuit\obj\Debug\IronSuit.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\IronSuit\obj\Debug\IronSuit.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\IronSuit\obj\Debug\IronSuit.pdb
