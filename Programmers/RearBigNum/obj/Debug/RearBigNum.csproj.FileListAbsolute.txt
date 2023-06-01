@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RearBigNum\bin\Debug\RearBigNum.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RearBigNum\bin\Debug\RearBigNum.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RearBigNum\bin\Debug\RearBigNum.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RearBigNum\obj\Debug\RearBigNum.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RearBigNum\obj\Debug\RearBigNum.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RearBigNum\obj\Debug\RearBigNum.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RearBigNum\obj\Debug\RearBigNum.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RearBigNum\obj\Debug\RearBigNum.pdb
