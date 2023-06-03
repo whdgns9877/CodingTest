@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindRemainderOne\bin\Debug\FindRemainderOne.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindRemainderOne\bin\Debug\FindRemainderOne.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindRemainderOne\bin\Debug\FindRemainderOne.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindRemainderOne\obj\Debug\FindRemainderOne.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindRemainderOne\obj\Debug\FindRemainderOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindRemainderOne\obj\Debug\FindRemainderOne.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindRemainderOne\obj\Debug\FindRemainderOne.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindRemainderOne\obj\Debug\FindRemainderOne.pdb
