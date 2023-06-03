@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StringOfNumbersAndWords\bin\Debug\StringOfNumbersAndWords.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StringOfNumbersAndWords\bin\Debug\StringOfNumbersAndWords.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StringOfNumbersAndWords\bin\Debug\StringOfNumbersAndWords.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StringOfNumbersAndWords\obj\Debug\StringOfNumbersAndWords.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StringOfNumbersAndWords\obj\Debug\StringOfNumbersAndWords.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StringOfNumbersAndWords\obj\Debug\StringOfNumbersAndWords.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StringOfNumbersAndWords\obj\Debug\StringOfNumbersAndWords.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StringOfNumbersAndWords\obj\Debug\StringOfNumbersAndWords.pdb
