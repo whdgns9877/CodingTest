@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Test\bin\Debug\Test.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Test\bin\Debug\Test.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Test\bin\Debug\Test.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Test\obj\Debug\Test.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Test\obj\Debug\Test.pdb

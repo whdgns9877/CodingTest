@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AddMissingNums\bin\Debug\AddMissingNums.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AddMissingNums\bin\Debug\AddMissingNums.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AddMissingNums\bin\Debug\AddMissingNums.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AddMissingNums\obj\Debug\AddMissingNums.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AddMissingNums\obj\Debug\AddMissingNums.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AddMissingNums\obj\Debug\AddMissingNums.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AddMissingNums\obj\Debug\AddMissingNums.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AddMissingNums\obj\Debug\AddMissingNums.pdb
