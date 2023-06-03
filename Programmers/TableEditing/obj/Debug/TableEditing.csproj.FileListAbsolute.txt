@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TableEditing\bin\Debug\TableEditing.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TableEditing\bin\Debug\TableEditing.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TableEditing\bin\Debug\TableEditing.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TableEditing\obj\Debug\TableEditing.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TableEditing\obj\Debug\TableEditing.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TableEditing\obj\Debug\TableEditing.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TableEditing\obj\Debug\TableEditing.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TableEditing\obj\Debug\TableEditing.pdb
