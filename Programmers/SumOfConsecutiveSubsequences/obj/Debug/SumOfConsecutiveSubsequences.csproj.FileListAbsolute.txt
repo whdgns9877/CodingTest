@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SumOfConsecutiveSubsequences\bin\Debug\SumOfConsecutiveSubsequences.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SumOfConsecutiveSubsequences\bin\Debug\SumOfConsecutiveSubsequences.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SumOfConsecutiveSubsequences\bin\Debug\SumOfConsecutiveSubsequences.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SumOfConsecutiveSubsequences\obj\Debug\SumOfConsecutiveSubsequences.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SumOfConsecutiveSubsequences\obj\Debug\SumOfConsecutiveSubsequences.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SumOfConsecutiveSubsequences\obj\Debug\SumOfConsecutiveSubsequences.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SumOfConsecutiveSubsequences\obj\Debug\SumOfConsecutiveSubsequences.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SumOfConsecutiveSubsequences\obj\Debug\SumOfConsecutiveSubsequences.pdb

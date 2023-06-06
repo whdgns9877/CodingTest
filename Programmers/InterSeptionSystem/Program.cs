@@ -27,9 +27,10 @@ public class Solution
 
     public int solution(int[,] targets)
     {
-        int n = targets.GetLength(0);
+        int n = targets.GetLength(0); // 배열의 행의 개수
         answer = 0;
 
+        // 미사일 범위에 따라 오름차순으로 정렬
         MergeSort(targets, 0, n - 1);
 
         int last = -1;
@@ -45,8 +46,7 @@ public class Solution
                 continue;
             }
 
-            if (last >= start && last <= end)
-                continue;
+            if (last >= start && last <= end) continue;
 
             answer++;
             last = end - 1;
@@ -74,8 +74,17 @@ public class Solution
         int[,] leftArr = new int[leftSize, 2];
         int[,] rightArr = new int[rightSize, 2];
 
-        Array.Copy(arr, low, leftArr, 0, leftSize);
-        Array.Copy(arr, mid + 1, rightArr, 0, rightSize);
+        for (int i = 0; i < leftSize; i++)
+        {
+            leftArr[i, 0] = arr[low + i, 0];
+            leftArr[i, 1] = arr[low + i, 1];
+        }
+
+        for (int j = 0; j < rightSize; j++)
+        {
+            rightArr[j, 0] = arr[mid + 1 + j, 0];
+            rightArr[j, 1] = arr[mid + 1 + j, 1];
+        }
 
         int leftIndex = 0;
         int rightIndex = 0;
