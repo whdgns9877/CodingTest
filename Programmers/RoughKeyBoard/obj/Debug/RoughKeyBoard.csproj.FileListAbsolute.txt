@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RoughKeyBoard\bin\Debug\RoughKeyBoard.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RoughKeyBoard\bin\Debug\RoughKeyBoard.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RoughKeyBoard\bin\Debug\RoughKeyBoard.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RoughKeyBoard\obj\Debug\RoughKeyBoard.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RoughKeyBoard\obj\Debug\RoughKeyBoard.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RoughKeyBoard\obj\Debug\RoughKeyBoard.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RoughKeyBoard\obj\Debug\RoughKeyBoard.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RoughKeyBoard\obj\Debug\RoughKeyBoard.pdb
