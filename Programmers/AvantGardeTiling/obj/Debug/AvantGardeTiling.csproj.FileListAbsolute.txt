@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AvantGardeTiling\bin\Debug\AvantGardeTiling.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AvantGardeTiling\bin\Debug\AvantGardeTiling.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AvantGardeTiling\bin\Debug\AvantGardeTiling.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AvantGardeTiling\obj\Debug\AvantGardeTiling.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AvantGardeTiling\obj\Debug\AvantGardeTiling.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AvantGardeTiling\obj\Debug\AvantGardeTiling.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AvantGardeTiling\obj\Debug\AvantGardeTiling.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\AvantGardeTiling\obj\Debug\AvantGardeTiling.pdb
