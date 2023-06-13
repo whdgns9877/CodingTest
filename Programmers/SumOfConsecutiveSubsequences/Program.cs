@@ -1,4 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace SumOfConsecutiveSubsequences
 {
@@ -7,8 +9,13 @@ namespace SumOfConsecutiveSubsequences
         static void Main(string[] args)
         {
             Solution solution = new Solution();
-            int[] sequence = { 1, 2, 3, 4, 5 };
-            solution.solution(sequence, 7);
+            int[] sequence = { 2, 2, 2, 2, 2 };
+            int[] result = solution.solution(sequence, 6);
+
+            for(int i = 0; i < result.Length; i++) 
+            { 
+                Console.Write(result[i] + " ");
+            }
         }
     }
 
@@ -16,7 +23,6 @@ namespace SumOfConsecutiveSubsequences
     {
         public int[] solution(int[] sequence, int k)
         {
-            int[] answer = new int[] { };
             List<int[]> tempList = new List<int[]>();
             for (int i = 0; i < sequence.Length; ++i)
             {
@@ -54,7 +60,7 @@ namespace SumOfConsecutiveSubsequences
 
             if (tempList.Count > 1)
             {
-                for (int i = 0; i < tempList.Count; ++i)
+                for (int i = 0; i < tempList.Count - 1; ++i)
                 {
                     if (tempList[i].Length > tempList[i + 1].Length)
                     {
@@ -63,9 +69,9 @@ namespace SumOfConsecutiveSubsequences
                 }
             }
 
-            answer = tempList[min];
+            int[] resultArr = { tempList[min].Min(), tempList[min].Max() };
 
-            return answer;
+            return resultArr;
         }
     }
 }
