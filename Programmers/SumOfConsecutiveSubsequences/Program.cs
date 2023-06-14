@@ -23,55 +23,59 @@ namespace SumOfConsecutiveSubsequences
     {
         public int[] solution(int[] sequence, int k)
         {
-            List<int[]> tempList = new List<int[]>();
-            for (int i = 0; i < sequence.Length; ++i)
-            {
-                if (sequence[i] == k)
-                {
-                    tempList.Add(new int[2] { i, i });
-                }
-                int sum = sequence[i];
-                for (int j = i + 1; j < sequence.Length; ++j)
-                {
-                    sum += sequence[j];
+            int lt = 0;
+            int rt = 0;
+            int ptrLen = int.MaxValue;
+            int sum = 0;
+            int[] answer = new int[2];
 
-                    if (sum < k)
+            while (rt < sequence.Length && lt <= rt)
+            {
+                if (lt == rt)
+                {
+                    sum = sequence[lt];
+                }
+
+                if (sum == k)
+                {
+                    if (ptrLen > rt - lt + 1)
                     {
-                        continue;
+                        ptrLen = rt - lt + 1;
+                        answer[0] = lt;
+                        answer[1] = rt;
                     }
-                    else if (sum == k)
+
+                    sum -= sequence[lt];
+
+                    if (rt + 1 < sequence.Length)
                     {
-                        int[] tempArr = new int[j - i + 1];
-                        for (int idx = 0; idx < tempArr.Length; ++idx)
-                        {
-                            tempArr[idx] = i++;
-                        }
-                        tempList.Add(tempArr);
+                        sum += sequence[rt + 1];
+                    }
+
+                    if (lt == rt)
+                    {
                         break;
                     }
-                    else
+
+                    lt++;
+                    rt++;
+                }
+                else if (sum > k)
+                {
+                    sum -= sequence[lt];
+                    lt++;
+                }
+                else if (sum < k)
+                {
+                    if (rt + 1 < sequence.Length)
                     {
-                        break;
+                        sum += sequence[rt + 1];
                     }
+                    rt++;
                 }
             }
 
-            int min = 0;
-
-            if (tempList.Count > 1)
-            {
-                for (int i = 0; i < tempList.Count - 1; ++i)
-                {
-                    if (tempList[i].Length > tempList[i + 1].Length)
-                    {
-                        min = i + 1;
-                    }
-                }
-            }
-
-            int[] resultArr = { tempList[min].Min(), tempList[min].Max() };
-
-            return resultArr;
+            return answer;
         }
     }
 }
