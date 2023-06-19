@@ -1,100 +1,93 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace MineralMining
+public class Solution
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             Solution solution = new Solution();
-            int[] picks = { 0, 1, 1 };
-            string[] minerals = { "diamond", "diamond", "diamond", "diamond", "diamond", "iron", "iron", "iron", "iron", "iron", "diamond" };
+            int[] picks = { 1, 3, 2 };
+            string[] minerals = { "diamond", "diamond", "diamond", "iron", "iron", "diamond", "iron", "stone";
             solution.solution(picks, minerals);
         }
     }
 
-    public class Solution
+    private class Mineral
     {
-        public int solution(int[] picks, string[] minerals)
+        public int Diamond { get; private set; }
+        public int Iron { get; private set; }
+        public int Stone { get; private set; }
+
+        public Mineral(int diamond, int iron, int stone)
         {
-            int answer = 0;
+            Diamond = diamond;
+            Iron = iron;
+            Stone = stone;
+        }
+    }
 
-            string curPick = "";
+    private static int[][] scoreBoard;
+    private static List<Mineral> list;
 
-            int idx = 0;
+    public int solution(int[] picks, string[] minerals)
+    {
+        int answer = 0;
 
-            for (int i = 0; i < 3; ++i)
+        scoreBoard = new int[][] { new int[] { 1, 1, 1 }, new int[] { 5, 1, 1 }, new int[] { 25, 5, 1 } };
+
+        int totalPicks = picks.Sum();
+        list = new List<Mineral>();
+        for (int i = 0; i < minerals.Length; i += 5)
+        {
+            if (totalPicks == 0) break;
+
+            int dia = 0, iron = 0, stone = 0;
+            for (int j = i; j < i + 5; j++)
             {
-                switch (i)
-                {
-                    case 0:
-                        curPick = "dia";
-                        break;
+                if (j == minerals.Length) break;
 
-                    case 1:
-                        curPick = "iron";
-                        break;
+                string mineral = minerals[j];
+                int val = mineral.Equals("iron") ? 1 :
+                    mineral.Equals("stone") ? 2 : 0;
 
-                    case 2:
-                        curPick = "stone";
-                        break;
-                }
-
-                int remainPick = picks[i];
-
-                while (remainPick > 0)
-                {
-                    switch (curPick)
-                    {
-                        case "dia":
-                            answer++;
-                            break;
-
-                        case "iron":
-                            switch (minerals[idx])
-                            {
-                                case "diamond":
-                                    answer += 5;
-                                    break;
-
-                                case "iron":
-                                    answer++;
-                                    break;
-
-                                case "stone":
-                                    answer++;
-                                    break;
-                            }
-                            break;
-
-                        case "stone":
-                            switch (minerals[idx])
-                            {
-                                case "diamond":
-                                    answer += 25;
-                                    break;
-
-                                case "iron":
-                                    answer += 5;
-                                    break;
-
-                                case "stone":
-                                    answer++;
-                                    break;
-                            }
-                            break;
-                    }
-                    idx++;
-                    remainPick--;
-                }
+                dia += scoreBoard[0][val];
+                iron += scoreBoard[1][val];
+                stone += scoreBoard[2][val];
             }
 
-            return answer;
+            list.Add(new Mineral(dia, iron, stone));
+            totalPicks--;
         }
+
+        list.Sort((o1, o2) => o2.Stone.CompareTo(o1.Stone));
+        foreach (Mineral m in list)
+        {
+            int dia = m.Diamond;
+            int iron = m.Iron;
+            int stone = m.Stone;
+
+            if (picks[0] > 0)
+            {
+                answer += dia;
+                picks[0]--;
+                continue;
+            }
+            if (picks[1] > 0)
+            {
+                answer += iron;
+                picks[1]--;
+                continue;
+            }
+            if (picks[2] > 0)
+            {
+                answer += stone;
+                picks[2]--;
+                continue;
+            }
+        }
+
+        return answer;
     }
 }
