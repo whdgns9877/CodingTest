@@ -56,7 +56,7 @@ namespace RicochetRobot
 
         private Tuple<int, int> FindNextNode(string[] board, int startRow, int startCol, int dy, int dx)
         {
-            var row = startRow;
+            int row = startRow;
             var column = startCol;
             // 장애물이 나오거나 각 맵의 끝이 나올때까지 해당 방향으로 확인
             while (true)
