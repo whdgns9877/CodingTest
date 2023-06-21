@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RicochetRobot\bin\Debug\RicochetRobot.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RicochetRobot\bin\Debug\RicochetRobot.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RicochetRobot\bin\Debug\RicochetRobot.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RicochetRobot\obj\Debug\RicochetRobot.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RicochetRobot\obj\Debug\RicochetRobot.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RicochetRobot\obj\Debug\RicochetRobot.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RicochetRobot\obj\Debug\RicochetRobot.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RicochetRobot\obj\Debug\RicochetRobot.pdb
