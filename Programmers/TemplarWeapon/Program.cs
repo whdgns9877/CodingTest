@@ -29,16 +29,16 @@ namespace TemplarWeapon
         private int GetMeasure(int num)
         {
             int count = 0;
-            int sqrt = (int)Math.Sqrt(num);
 
-            for (int i = 1; i <= sqrt; i++)
+            for (int i = 1; i * i <= num; i++)
             {
                 if (num % i == 0)
                 {
+                    // i가 num의 약수인 경우
                     count++;
 
-                    // 제곱수인 경우, 제곱근을 중복으로 세지 않도록 처리
-                    if (i != sqrt)
+                    // i와 num/i가 서로 다른 약수인 경우
+                    if (i != num / i)
                     {
                         count++;
                     }
@@ -47,5 +47,6 @@ namespace TemplarWeapon
 
             return count;
         }
+
     }
 }

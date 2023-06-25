@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FruitSeller\bin\Debug\FruitSeller.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FruitSeller\bin\Debug\FruitSeller.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FruitSeller\bin\Debug\FruitSeller.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FruitSeller\obj\Debug\FruitSeller.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FruitSeller\obj\Debug\FruitSeller.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FruitSeller\obj\Debug\FruitSeller.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FruitSeller\obj\Debug\FruitSeller.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FruitSeller\obj\Debug\FruitSeller.pdb
