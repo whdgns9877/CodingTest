@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberMate\bin\Debug\NumberMate.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberMate\bin\Debug\NumberMate.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberMate\bin\Debug\NumberMate.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberMate\obj\Debug\NumberMate.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberMate\obj\Debug\NumberMate.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberMate\obj\Debug\NumberMate.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberMate\obj\Debug\NumberMate.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberMate\obj\Debug\NumberMate.pdb
