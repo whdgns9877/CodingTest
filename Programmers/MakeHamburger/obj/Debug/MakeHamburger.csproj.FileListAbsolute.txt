@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeHamburger\bin\Debug\MakeHamburger.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeHamburger\bin\Debug\MakeHamburger.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeHamburger\bin\Debug\MakeHamburger.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeHamburger\obj\Debug\MakeHamburger.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeHamburger\obj\Debug\MakeHamburger.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeHamburger\obj\Debug\MakeHamburger.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeHamburger\obj\Debug\MakeHamburger.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeHamburger\obj\Debug\MakeHamburger.pdb
