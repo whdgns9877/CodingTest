@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountsSpacedByX\bin\Debug\NCountsSpacedByX.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountsSpacedByX\bin\Debug\NCountsSpacedByX.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountsSpacedByX\bin\Debug\NCountsSpacedByX.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountsSpacedByX\obj\Debug\NCountsSpacedByX.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountsSpacedByX\obj\Debug\NCountsSpacedByX.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountsSpacedByX\obj\Debug\NCountsSpacedByX.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountsSpacedByX\obj\Debug\NCountsSpacedByX.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountsSpacedByX\obj\Debug\NCountsSpacedByX.pdb
