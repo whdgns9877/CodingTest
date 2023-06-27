@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MinRectangle\bin\Debug\MinRectangle.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MinRectangle\bin\Debug\MinRectangle.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MinRectangle\bin\Debug\MinRectangle.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MinRectangle\obj\Debug\MinRectangle.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MinRectangle\obj\Debug\MinRectangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MinRectangle\obj\Debug\MinRectangle.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MinRectangle\obj\Debug\MinRectangle.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MinRectangle\obj\Debug\MinRectangle.pdb

@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Fibonacci\bin\Debug\Fibonacci.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Fibonacci\bin\Debug\Fibonacci.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Fibonacci\bin\Debug\Fibonacci.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Fibonacci\obj\Debug\Fibonacci.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Fibonacci\obj\Debug\Fibonacci.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Fibonacci\obj\Debug\Fibonacci.pdb

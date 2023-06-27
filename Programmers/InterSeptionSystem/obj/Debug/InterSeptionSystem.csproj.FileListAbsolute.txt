@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\InterSeptionSystem\bin\Debug\InterSeptionSystem.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\InterSeptionSystem\bin\Debug\InterSeptionSystem.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\InterSeptionSystem\bin\Debug\InterSeptionSystem.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\InterSeptionSystem\obj\Debug\InterSeptionSystem.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\InterSeptionSystem\obj\Debug\InterSeptionSystem.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\InterSeptionSystem\obj\Debug\InterSeptionSystem.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\InterSeptionSystem\obj\Debug\InterSeptionSystem.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\InterSeptionSystem\obj\Debug\InterSeptionSystem.pdb

@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\RunningRace\bin\Debug\RunningRace.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\RunningRace\bin\Debug\RunningRace.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\RunningRace\bin\Debug\RunningRace.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\RunningRace\obj\Debug\RunningRace.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\RunningRace\obj\Debug\RunningRace.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\RunningRace\obj\Debug\RunningRace.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\RunningRace\obj\Debug\RunningRace.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\RunningRace\obj\Debug\RunningRace.pdb

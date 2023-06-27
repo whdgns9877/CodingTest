@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\FoodFightContest\obj\Debug\FoodFightContest.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\FoodFightContest\obj\Debug\FoodFightContest.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\FoodFightContest\obj\Debug\FoodFightContest.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\FoodFightContest\bin\Debug\FoodFightContest.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\FoodFightContest\bin\Debug\FoodFightContest.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\FoodFightContest\bin\Debug\FoodFightContest.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\FoodFightContest\obj\Debug\FoodFightContest.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\FoodFightContest\obj\Debug\FoodFightContest.pdb

@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Personal information validity period\bin\Debug\Personal information validity period.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Personal information validity period\bin\Debug\Personal information validity period.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Personal information validity period\bin\Debug\Personal information validity period.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Personal information validity period\obj\Debug\Personal information validity period.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Personal information validity period\obj\Debug\Personal information validity period.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Personal information validity period\obj\Debug\Personal information validity period.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Personal information validity period\obj\Debug\Personal information validity period.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Personal information validity period\obj\Debug\Personal information validity period.pdb

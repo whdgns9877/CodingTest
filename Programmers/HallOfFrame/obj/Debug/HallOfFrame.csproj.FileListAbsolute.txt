@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\HallOfFrame\bin\Debug\HallOfFrame.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\HallOfFrame\bin\Debug\HallOfFrame.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\HallOfFrame\bin\Debug\HallOfFrame.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\HallOfFrame\obj\Debug\HallOfFrame.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\HallOfFrame\obj\Debug\HallOfFrame.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\HallOfFrame\obj\Debug\HallOfFrame.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\HallOfFrame\obj\Debug\HallOfFrame.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\HallOfFrame\obj\Debug\HallOfFrame.pdb

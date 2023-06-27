@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TemplarWeapon\bin\Debug\TemplarWeapon.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TemplarWeapon\bin\Debug\TemplarWeapon.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TemplarWeapon\bin\Debug\TemplarWeapon.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TemplarWeapon\obj\Debug\TemplarWeapon.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TemplarWeapon\obj\Debug\TemplarWeapon.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TemplarWeapon\obj\Debug\TemplarWeapon.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TemplarWeapon\obj\Debug\TemplarWeapon.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TemplarWeapon\obj\Debug\TemplarWeapon.pdb

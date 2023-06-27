@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TheThreeMusketeers\bin\Debug\TheThreeMusketeers.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TheThreeMusketeers\bin\Debug\TheThreeMusketeers.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TheThreeMusketeers\bin\Debug\TheThreeMusketeers.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TheThreeMusketeers\obj\Debug\TheThreeMusketeers.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TheThreeMusketeers\obj\Debug\TheThreeMusketeers.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TheThreeMusketeers\obj\Debug\TheThreeMusketeers.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TheThreeMusketeers\obj\Debug\TheThreeMusketeers.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\TheThreeMusketeers\obj\Debug\TheThreeMusketeers.pdb

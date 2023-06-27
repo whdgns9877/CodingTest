@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\SmallSubstring\bin\Debug\SmallSubstring.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\SmallSubstring\bin\Debug\SmallSubstring.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\SmallSubstring\bin\Debug\SmallSubstring.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\SmallSubstring\obj\Debug\SmallSubstring.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\SmallSubstring\obj\Debug\SmallSubstring.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\SmallSubstring\obj\Debug\SmallSubstring.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\SmallSubstring\obj\Debug\SmallSubstring.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\SmallSubstring\obj\Debug\SmallSubstring.pdb

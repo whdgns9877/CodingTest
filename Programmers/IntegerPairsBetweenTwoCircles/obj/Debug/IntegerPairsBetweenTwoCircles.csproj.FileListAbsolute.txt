@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\IntegerPairsBetweenTwoCircles\bin\Debug\IntegerPairsBetweenTwoCircles.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\IntegerPairsBetweenTwoCircles\bin\Debug\IntegerPairsBetweenTwoCircles.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\IntegerPairsBetweenTwoCircles\bin\Debug\IntegerPairsBetweenTwoCircles.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\IntegerPairsBetweenTwoCircles\obj\Debug\IntegerPairsBetweenTwoCircles.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\IntegerPairsBetweenTwoCircles\obj\Debug\IntegerPairsBetweenTwoCircles.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\IntegerPairsBetweenTwoCircles\obj\Debug\IntegerPairsBetweenTwoCircles.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\IntegerPairsBetweenTwoCircles\obj\Debug\IntegerPairsBetweenTwoCircles.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\IntegerPairsBetweenTwoCircles\obj\Debug\IntegerPairsBetweenTwoCircles.pdb

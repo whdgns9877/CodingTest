@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WorkingAssignment\bin\Debug\WorkingAssignment.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WorkingAssignment\bin\Debug\WorkingAssignment.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WorkingAssignment\bin\Debug\WorkingAssignment.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WorkingAssignment\obj\Debug\WorkingAssignment.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WorkingAssignment\obj\Debug\WorkingAssignment.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WorkingAssignment\obj\Debug\WorkingAssignment.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WorkingAssignment\obj\Debug\WorkingAssignment.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WorkingAssignment\obj\Debug\WorkingAssignment.pdb

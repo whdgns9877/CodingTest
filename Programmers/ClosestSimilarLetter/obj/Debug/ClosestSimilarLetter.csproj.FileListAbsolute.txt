@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\ClosestSimilarLetter\bin\Debug\ClosestSimilarLetter.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\ClosestSimilarLetter\bin\Debug\ClosestSimilarLetter.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\ClosestSimilarLetter\bin\Debug\ClosestSimilarLetter.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\ClosestSimilarLetter\obj\Debug\ClosestSimilarLetter.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\ClosestSimilarLetter\obj\Debug\ClosestSimilarLetter.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\ClosestSimilarLetter\obj\Debug\ClosestSimilarLetter.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\ClosestSimilarLetter\obj\Debug\ClosestSimilarLetter.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\ClosestSimilarLetter\obj\Debug\ClosestSimilarLetter.pdb

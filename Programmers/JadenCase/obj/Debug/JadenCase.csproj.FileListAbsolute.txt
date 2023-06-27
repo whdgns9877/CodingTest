@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\JadenCase\bin\Debug\JadenCase.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\JadenCase\bin\Debug\JadenCase.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\JadenCase\bin\Debug\JadenCase.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\JadenCase\obj\Debug\JadenCase.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\JadenCase\obj\Debug\JadenCase.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\JadenCase\obj\Debug\JadenCase.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\JadenCase\obj\Debug\JadenCase.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\JadenCase\obj\Debug\JadenCase.pdb

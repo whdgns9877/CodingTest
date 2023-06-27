@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\KeepDistance\bin\Debug\KeepDistance.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\KeepDistance\bin\Debug\KeepDistance.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\KeepDistance\bin\Debug\KeepDistance.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\KeepDistance\obj\Debug\KeepDistance.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\KeepDistance\obj\Debug\KeepDistance.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\KeepDistance\obj\Debug\KeepDistance.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\KeepDistance\obj\Debug\KeepDistance.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\KeepDistance\obj\Debug\KeepDistance.pdb

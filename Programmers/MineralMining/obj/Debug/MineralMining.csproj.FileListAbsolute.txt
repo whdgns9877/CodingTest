@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\MineralMining\bin\Debug\MineralMining.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\MineralMining\bin\Debug\MineralMining.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\MineralMining\bin\Debug\MineralMining.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\MineralMining\obj\Debug\MineralMining.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\MineralMining\obj\Debug\MineralMining.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\MineralMining\obj\Debug\MineralMining.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\MineralMining\obj\Debug\MineralMining.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\MineralMining\obj\Debug\MineralMining.pdb

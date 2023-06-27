@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\DeckOfCards\bin\Debug\DeckOfCards.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\DeckOfCards\bin\Debug\DeckOfCards.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\DeckOfCards\bin\Debug\DeckOfCards.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\DeckOfCards\obj\Debug\DeckOfCards.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\DeckOfCards\obj\Debug\DeckOfCards.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\DeckOfCards\obj\Debug\DeckOfCards.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\DeckOfCards\obj\Debug\DeckOfCards.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\DeckOfCards\obj\Debug\DeckOfCards.pdb

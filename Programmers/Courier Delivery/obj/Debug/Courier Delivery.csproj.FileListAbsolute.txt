@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Courier Delivery\bin\Debug\Courier Delivery.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Courier Delivery\bin\Debug\Courier Delivery.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Courier Delivery\bin\Debug\Courier Delivery.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Courier Delivery\obj\Debug\Courier Delivery.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Courier Delivery\obj\Debug\Courier Delivery.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Courier Delivery\obj\Debug\Courier Delivery.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Courier Delivery\obj\Debug\Courier Delivery.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Courier Delivery\obj\Debug\Courier Delivery.pdb

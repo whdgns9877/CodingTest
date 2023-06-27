@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WalkInThePark\bin\Debug\WalkInThePark.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WalkInThePark\bin\Debug\WalkInThePark.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WalkInThePark\bin\Debug\WalkInThePark.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WalkInThePark\obj\Debug\WalkInThePark.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WalkInThePark\obj\Debug\WalkInThePark.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WalkInThePark\obj\Debug\WalkInThePark.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WalkInThePark\obj\Debug\WalkInThePark.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WalkInThePark\obj\Debug\WalkInThePark.pdb

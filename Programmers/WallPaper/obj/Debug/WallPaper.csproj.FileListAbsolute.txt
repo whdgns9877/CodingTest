@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WallPaper\obj\Debug\WallPaper.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WallPaper\obj\Debug\WallPaper.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WallPaper\obj\Debug\WallPaper.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WallPaper\bin\Debug\WallPaper.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WallPaper\bin\Debug\WallPaper.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WallPaper\bin\Debug\WallPaper.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WallPaper\obj\Debug\WallPaper.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\WallPaper\obj\Debug\WallPaper.pdb

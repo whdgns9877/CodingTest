@@ -1,8 +1,0 @@
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Coke\bin\Debug\Coke.exe.config
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Coke\bin\Debug\Coke.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Coke\bin\Debug\Coke.pdb
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Coke\obj\Debug\Coke.csproj.AssemblyReference.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Coke\obj\Debug\Coke.csproj.SuggestedBindingRedirects.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Coke\obj\Debug\Coke.csproj.CoreCompileInputs.cache
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Coke\obj\Debug\Coke.exe
-C:\Users\whdgn\Desktop\CodingTest\Programmers\Coke\obj\Debug\Coke.pdb
