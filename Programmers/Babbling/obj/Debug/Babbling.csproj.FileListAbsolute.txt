@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Babbling\bin\Debug\Babbling.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Babbling\bin\Debug\Babbling.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Babbling\bin\Debug\Babbling.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Babbling\obj\Debug\Babbling.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Babbling\obj\Debug\Babbling.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Babbling\obj\Debug\Babbling.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Babbling\obj\Debug\Babbling.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Babbling\obj\Debug\Babbling.pdb
