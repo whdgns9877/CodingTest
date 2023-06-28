@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Budget\bin\Debug\Budget.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Budget\bin\Debug\Budget.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Budget\bin\Debug\Budget.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Budget\obj\Debug\Budget.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Budget\obj\Debug\Budget.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Budget\obj\Debug\Budget.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Budget\obj\Debug\Budget.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Budget\obj\Debug\Budget.pdb
