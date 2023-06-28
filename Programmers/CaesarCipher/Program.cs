@@ -17,8 +17,6 @@ namespace CaesarCipher
         {
             char[] sToCharArr = s.ToCharArray();
 
-            int z = 'z';
-
             for(int i = 0; i < sToCharArr.Length; i++)
             {
                 if (sToCharArr[i] != ' ')
