@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GetAverage\bin\Debug\GetAverage.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GetAverage\bin\Debug\GetAverage.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GetAverage\bin\Debug\GetAverage.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GetAverage\obj\Debug\GetAverage.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GetAverage\obj\Debug\GetAverage.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GetAverage\obj\Debug\GetAverage.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GetAverage\obj\Debug\GetAverage.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GetAverage\obj\Debug\GetAverage.pdb
