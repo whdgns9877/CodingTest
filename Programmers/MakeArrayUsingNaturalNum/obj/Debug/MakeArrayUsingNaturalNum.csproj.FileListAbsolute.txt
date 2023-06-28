@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeArrayUsingNaturalNum\bin\Debug\MakeArrayUsingNaturalNum.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeArrayUsingNaturalNum\bin\Debug\MakeArrayUsingNaturalNum.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeArrayUsingNaturalNum\bin\Debug\MakeArrayUsingNaturalNum.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeArrayUsingNaturalNum\obj\Debug\MakeArrayUsingNaturalNum.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeArrayUsingNaturalNum\obj\Debug\MakeArrayUsingNaturalNum.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeArrayUsingNaturalNum\obj\Debug\MakeArrayUsingNaturalNum.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeArrayUsingNaturalNum\obj\Debug\MakeArrayUsingNaturalNum.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeArrayUsingNaturalNum\obj\Debug\MakeArrayUsingNaturalNum.pdb
