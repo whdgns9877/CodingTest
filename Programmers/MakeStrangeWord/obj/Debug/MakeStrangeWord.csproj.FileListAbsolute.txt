@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeStrangeWord\bin\Debug\MakeStrangeWord.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeStrangeWord\bin\Debug\MakeStrangeWord.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeStrangeWord\bin\Debug\MakeStrangeWord.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeStrangeWord\obj\Debug\MakeStrangeWord.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeStrangeWord\obj\Debug\MakeStrangeWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeStrangeWord\obj\Debug\MakeStrangeWord.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeStrangeWord\obj\Debug\MakeStrangeWord.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeStrangeWord\obj\Debug\MakeStrangeWord.pdb
