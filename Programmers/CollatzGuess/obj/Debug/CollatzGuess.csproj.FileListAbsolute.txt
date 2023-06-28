@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CollatzGuess\bin\Debug\CollatzGuess.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CollatzGuess\bin\Debug\CollatzGuess.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CollatzGuess\bin\Debug\CollatzGuess.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CollatzGuess\obj\Debug\CollatzGuess.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CollatzGuess\obj\Debug\CollatzGuess.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CollatzGuess\obj\Debug\CollatzGuess.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CollatzGuess\obj\Debug\CollatzGuess.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CollatzGuess\obj\Debug\CollatzGuess.pdb
