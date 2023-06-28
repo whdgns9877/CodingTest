@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GCMAndLCM\bin\Debug\GCMAndLCM.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GCMAndLCM\bin\Debug\GCMAndLCM.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GCMAndLCM\bin\Debug\GCMAndLCM.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GCMAndLCM\obj\Debug\GCMAndLCM.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GCMAndLCM\obj\Debug\GCMAndLCM.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GCMAndLCM\obj\Debug\GCMAndLCM.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GCMAndLCM\obj\Debug\GCMAndLCM.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GCMAndLCM\obj\Debug\GCMAndLCM.pdb
