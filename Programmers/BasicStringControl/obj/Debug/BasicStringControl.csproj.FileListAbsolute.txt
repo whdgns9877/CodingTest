@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BasicStringControl\bin\Debug\BasicStringControl.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BasicStringControl\bin\Debug\BasicStringControl.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BasicStringControl\bin\Debug\BasicStringControl.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BasicStringControl\obj\Debug\BasicStringControl.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BasicStringControl\obj\Debug\BasicStringControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BasicStringControl\obj\Debug\BasicStringControl.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BasicStringControl\obj\Debug\BasicStringControl.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BasicStringControl\obj\Debug\BasicStringControl.pdb
