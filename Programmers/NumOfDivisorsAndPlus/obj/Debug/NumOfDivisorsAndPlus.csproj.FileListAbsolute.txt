@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfDivisorsAndPlus\bin\Debug\NumOfDivisorsAndPlus.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfDivisorsAndPlus\bin\Debug\NumOfDivisorsAndPlus.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfDivisorsAndPlus\bin\Debug\NumOfDivisorsAndPlus.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfDivisorsAndPlus\obj\Debug\NumOfDivisorsAndPlus.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfDivisorsAndPlus\obj\Debug\NumOfDivisorsAndPlus.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfDivisorsAndPlus\obj\Debug\NumOfDivisorsAndPlus.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfDivisorsAndPlus\obj\Debug\NumOfDivisorsAndPlus.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfDivisorsAndPlus\obj\Debug\NumOfDivisorsAndPlus.pdb
