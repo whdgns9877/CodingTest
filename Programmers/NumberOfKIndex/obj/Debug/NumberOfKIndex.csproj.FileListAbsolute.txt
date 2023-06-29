@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberOfKIndex\bin\Debug\NumberOfKIndex.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberOfKIndex\bin\Debug\NumberOfKIndex.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberOfKIndex\bin\Debug\NumberOfKIndex.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberOfKIndex\obj\Debug\NumberOfKIndex.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberOfKIndex\obj\Debug\NumberOfKIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberOfKIndex\obj\Debug\NumberOfKIndex.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberOfKIndex\obj\Debug\NumberOfKIndex.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumberOfKIndex\obj\Debug\NumberOfKIndex.pdb
