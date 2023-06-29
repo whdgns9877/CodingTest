@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PickTwoAndAdd\bin\Debug\PickTwoAndAdd.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PickTwoAndAdd\bin\Debug\PickTwoAndAdd.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PickTwoAndAdd\bin\Debug\PickTwoAndAdd.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PickTwoAndAdd\obj\Debug\PickTwoAndAdd.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PickTwoAndAdd\obj\Debug\PickTwoAndAdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PickTwoAndAdd\obj\Debug\PickTwoAndAdd.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PickTwoAndAdd\obj\Debug\PickTwoAndAdd.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\PickTwoAndAdd\obj\Debug\PickTwoAndAdd.pdb
