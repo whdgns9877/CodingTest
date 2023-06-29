@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TrainingSuit\bin\Debug\TrainingSuit.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TrainingSuit\bin\Debug\TrainingSuit.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TrainingSuit\bin\Debug\TrainingSuit.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TrainingSuit\obj\Debug\TrainingSuit.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TrainingSuit\obj\Debug\TrainingSuit.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TrainingSuit\obj\Debug\TrainingSuit.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TrainingSuit\obj\Debug\TrainingSuit.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TrainingSuit\obj\Debug\TrainingSuit.pdb
