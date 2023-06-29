@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GreatAndLowestInLotto\bin\Debug\GreatAndLowestInLotto.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GreatAndLowestInLotto\bin\Debug\GreatAndLowestInLotto.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GreatAndLowestInLotto\bin\Debug\GreatAndLowestInLotto.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GreatAndLowestInLotto\obj\Debug\GreatAndLowestInLotto.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GreatAndLowestInLotto\obj\Debug\GreatAndLowestInLotto.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GreatAndLowestInLotto\obj\Debug\GreatAndLowestInLotto.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GreatAndLowestInLotto\obj\Debug\GreatAndLowestInLotto.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\GreatAndLowestInLotto\obj\Debug\GreatAndLowestInLotto.pdb
