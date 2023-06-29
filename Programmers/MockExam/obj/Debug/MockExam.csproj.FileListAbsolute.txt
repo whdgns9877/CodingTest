@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MockExam\bin\Debug\MockExam.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MockExam\bin\Debug\MockExam.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MockExam\bin\Debug\MockExam.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MockExam\obj\Debug\MockExam.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MockExam\obj\Debug\MockExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MockExam\obj\Debug\MockExam.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MockExam\obj\Debug\MockExam.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MockExam\obj\Debug\MockExam.pdb
