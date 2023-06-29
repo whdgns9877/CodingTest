@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TwentySixteen\bin\Debug\TwentySixteen.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TwentySixteen\bin\Debug\TwentySixteen.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TwentySixteen\bin\Debug\TwentySixteen.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TwentySixteen\obj\Debug\TwentySixteen.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TwentySixteen\obj\Debug\TwentySixteen.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TwentySixteen\obj\Debug\TwentySixteen.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TwentySixteen\obj\Debug\TwentySixteen.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TwentySixteen\obj\Debug\TwentySixteen.pdb
