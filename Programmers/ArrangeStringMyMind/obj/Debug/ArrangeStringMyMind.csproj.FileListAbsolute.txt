@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ArrangeStringMyMind\bin\Debug\ArrangeStringMyMind.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ArrangeStringMyMind\bin\Debug\ArrangeStringMyMind.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ArrangeStringMyMind\bin\Debug\ArrangeStringMyMind.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ArrangeStringMyMind\obj\Debug\ArrangeStringMyMind.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ArrangeStringMyMind\obj\Debug\ArrangeStringMyMind.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ArrangeStringMyMind\obj\Debug\ArrangeStringMyMind.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ArrangeStringMyMind\obj\Debug\ArrangeStringMyMind.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ArrangeStringMyMind\obj\Debug\ArrangeStringMyMind.pdb
