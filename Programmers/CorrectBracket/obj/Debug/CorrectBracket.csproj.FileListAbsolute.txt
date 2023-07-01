@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CorrectBracket\bin\Debug\CorrectBracket.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CorrectBracket\bin\Debug\CorrectBracket.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CorrectBracket\bin\Debug\CorrectBracket.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CorrectBracket\obj\Debug\CorrectBracket.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CorrectBracket\obj\Debug\CorrectBracket.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CorrectBracket\obj\Debug\CorrectBracket.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CorrectBracket\obj\Debug\CorrectBracket.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CorrectBracket\obj\Debug\CorrectBracket.pdb
