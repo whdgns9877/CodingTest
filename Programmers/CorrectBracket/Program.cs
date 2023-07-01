@@ -7,7 +7,7 @@ namespace CorrectBracket
         static void Main(string[] args)
         {
             Solution solution = new Solution();
-            string s = "())(()";
+            string s = "()()";
             Console.WriteLine(solution.solution(s));
         }
     }
@@ -16,39 +16,42 @@ namespace CorrectBracket
     {
         public bool solution(string s)
         {
-            // 닫힌채로 시작하면 맞출수 없다 || 인덱스 개수가 홀수라면 짝을 맞출수 없다
-            if (s[0] != '(' || s.Length % 2 == 1) 
+            bool answer = true;
+
+            // 기준점을 세울 int변수
+            int count = 0;
+
+            if (s[0] == ')')
+            {
+                return false;
+            }
+            
+            foreach (var p in s)
+            {
+                // 왼쪽괄호면 +
+                if (p == '(')
+                {
+                    count++;
+                }
+                // 오른쪽 괄호면 -
+                else
+                {
+                    // 오른쪽이 나왔는데 앞에 count된것이 없다면 '('가 없던것이므로 false 반환
+                    if (count == 0)
+                    {
+                        return false;
+                    }
+                    count--;
+                }
+            }
+
+            // 위의 검사를 끝낸후에 count가 남아잇다면 '(' 갯수가 더 많은것
+            if (count > 0)
             {
                 return false;
             }
 
-            int leftCount = 0;
-
-            for(int i = 0; i < s.Length; i++)
-            {
-                // '(' 모양이 나오고나서 몇개가 나오는지 세놓는다
-                if (s[i].Equals('('))
-                {
-                    leftCount++;
-                }
-                // ')' 모양이 나오고나서
-                else
-                {
-                    // 그 뒤 엔덱스들이 leftCount 만큼 ')' 모양인지 확인한다
-                    for(int j = leftCount; j < i + leftCount; j++)
-                    {
-                        // 중간에 '(' 모양이 들어가있다면 짝은 맞지않는다
-                        if(s[j].Equals('('))
-                        {
-                            return false;
-                        }
-                    }
-                    i += leftCount + 1;
-                    leftCount = 0;
-                }
-            }
-
-            return true;
+            return answer;
         }
     }
 }
