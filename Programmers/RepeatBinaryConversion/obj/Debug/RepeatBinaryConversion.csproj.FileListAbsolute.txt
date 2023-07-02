@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RepeatBinaryConversion\bin\Debug\RepeatBinaryConversion.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RepeatBinaryConversion\bin\Debug\RepeatBinaryConversion.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RepeatBinaryConversion\bin\Debug\RepeatBinaryConversion.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RepeatBinaryConversion\obj\Debug\RepeatBinaryConversion.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RepeatBinaryConversion\obj\Debug\RepeatBinaryConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RepeatBinaryConversion\obj\Debug\RepeatBinaryConversion.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RepeatBinaryConversion\obj\Debug\RepeatBinaryConversion.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RepeatBinaryConversion\obj\Debug\RepeatBinaryConversion.pdb
