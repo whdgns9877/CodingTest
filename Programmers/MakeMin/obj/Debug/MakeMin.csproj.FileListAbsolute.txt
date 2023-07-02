@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeMin\bin\Debug\MakeMin.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeMin\bin\Debug\MakeMin.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeMin\bin\Debug\MakeMin.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeMin\obj\Debug\MakeMin.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeMin\obj\Debug\MakeMin.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeMin\obj\Debug\MakeMin.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeMin\obj\Debug\MakeMin.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeMin\obj\Debug\MakeMin.pdb
