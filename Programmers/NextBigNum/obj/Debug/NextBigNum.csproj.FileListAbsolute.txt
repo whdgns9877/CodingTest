@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NextBigNum\bin\Debug\NextBigNum.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NextBigNum\bin\Debug\NextBigNum.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NextBigNum\bin\Debug\NextBigNum.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NextBigNum\obj\Debug\NextBigNum.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NextBigNum\obj\Debug\NextBigNum.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NextBigNum\obj\Debug\NextBigNum.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NextBigNum\obj\Debug\NextBigNum.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NextBigNum\obj\Debug\NextBigNum.pdb
