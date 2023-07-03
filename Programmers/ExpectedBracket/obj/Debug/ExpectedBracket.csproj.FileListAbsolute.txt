@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ExpectedBracket\bin\Debug\ExpectedBracket.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ExpectedBracket\bin\Debug\ExpectedBracket.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ExpectedBracket\bin\Debug\ExpectedBracket.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ExpectedBracket\obj\Debug\ExpectedBracket.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ExpectedBracket\obj\Debug\ExpectedBracket.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ExpectedBracket\obj\Debug\ExpectedBracket.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ExpectedBracket\obj\Debug\ExpectedBracket.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ExpectedBracket\obj\Debug\ExpectedBracket.pdb
