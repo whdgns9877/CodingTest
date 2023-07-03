@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Carpet\obj\Debug\Carpet.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Carpet\obj\Debug\Carpet.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Carpet\obj\Debug\Carpet.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Carpet\bin\Debug\Carpet.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Carpet\bin\Debug\Carpet.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Carpet\bin\Debug\Carpet.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Carpet\obj\Debug\Carpet.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Carpet\obj\Debug\Carpet.pdb
