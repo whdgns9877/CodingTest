@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\EnglishKungKungDda\bin\Debug\EnglishKungKungDda.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\EnglishKungKungDda\bin\Debug\EnglishKungKungDda.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\EnglishKungKungDda\bin\Debug\EnglishKungKungDda.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\EnglishKungKungDda\obj\Debug\EnglishKungKungDda.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\EnglishKungKungDda\obj\Debug\EnglishKungKungDda.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\EnglishKungKungDda\obj\Debug\EnglishKungKungDda.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\EnglishKungKungDda\obj\Debug\EnglishKungKungDda.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\EnglishKungKungDda\obj\Debug\EnglishKungKungDda.pdb
