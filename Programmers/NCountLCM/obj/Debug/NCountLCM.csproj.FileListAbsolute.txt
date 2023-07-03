@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountLCM\bin\Debug\NCountLCM.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountLCM\bin\Debug\NCountLCM.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountLCM\bin\Debug\NCountLCM.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountLCM\obj\Debug\NCountLCM.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountLCM\obj\Debug\NCountLCM.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountLCM\obj\Debug\NCountLCM.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountLCM\obj\Debug\NCountLCM.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NCountLCM\obj\Debug\NCountLCM.pdb
