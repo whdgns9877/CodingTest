@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\JumpAndTeleport\bin\Debug\JumpAndTeleport.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\JumpAndTeleport\bin\Debug\JumpAndTeleport.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\JumpAndTeleport\bin\Debug\JumpAndTeleport.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\JumpAndTeleport\obj\Debug\JumpAndTeleport.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\JumpAndTeleport\obj\Debug\JumpAndTeleport.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\JumpAndTeleport\obj\Debug\JumpAndTeleport.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\JumpAndTeleport\obj\Debug\JumpAndTeleport.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\JumpAndTeleport\obj\Debug\JumpAndTeleport.pdb
