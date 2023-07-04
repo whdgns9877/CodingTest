@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\LongJump\bin\Debug\LongJump.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\LongJump\bin\Debug\LongJump.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\LongJump\bin\Debug\LongJump.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\LongJump\obj\Debug\LongJump.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\LongJump\obj\Debug\LongJump.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\LongJump\obj\Debug\LongJump.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\LongJump\obj\Debug\LongJump.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\LongJump\obj\Debug\LongJump.pdb
