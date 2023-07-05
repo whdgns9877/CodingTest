@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ChooseMandarin\bin\Debug\ChooseMandarin.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ChooseMandarin\bin\Debug\ChooseMandarin.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ChooseMandarin\bin\Debug\ChooseMandarin.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ChooseMandarin\obj\Debug\ChooseMandarin.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ChooseMandarin\obj\Debug\ChooseMandarin.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ChooseMandarin\obj\Debug\ChooseMandarin.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ChooseMandarin\obj\Debug\ChooseMandarin.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ChooseMandarin\obj\Debug\ChooseMandarin.pdb
