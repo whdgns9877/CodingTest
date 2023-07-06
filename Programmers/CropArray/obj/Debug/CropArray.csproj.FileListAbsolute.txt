@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CropArray\bin\Debug\CropArray.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CropArray\bin\Debug\CropArray.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CropArray\bin\Debug\CropArray.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CropArray\obj\Debug\CropArray.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CropArray\obj\Debug\CropArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CropArray\obj\Debug\CropArray.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CropArray\obj\Debug\CropArray.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CropArray\obj\Debug\CropArray.pdb
