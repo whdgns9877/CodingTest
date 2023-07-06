@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Hindex\bin\Debug\Hindex.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Hindex\bin\Debug\Hindex.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Hindex\bin\Debug\Hindex.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Hindex\obj\Debug\Hindex.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Hindex\obj\Debug\Hindex.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Hindex\obj\Debug\Hindex.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Hindex\obj\Debug\Hindex.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Hindex\obj\Debug\Hindex.pdb
