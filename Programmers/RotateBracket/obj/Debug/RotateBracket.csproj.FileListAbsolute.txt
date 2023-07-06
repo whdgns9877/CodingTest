@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RotateBracket\bin\Debug\RotateBracket.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RotateBracket\bin\Debug\RotateBracket.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RotateBracket\bin\Debug\RotateBracket.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RotateBracket\obj\Debug\RotateBracket.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RotateBracket\obj\Debug\RotateBracket.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RotateBracket\obj\Debug\RotateBracket.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RotateBracket\obj\Debug\RotateBracket.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\RotateBracket\obj\Debug\RotateBracket.pdb
