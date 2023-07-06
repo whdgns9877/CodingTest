@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MatrixMul\bin\Debug\MatrixMul.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MatrixMul\bin\Debug\MatrixMul.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MatrixMul\bin\Debug\MatrixMul.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MatrixMul\obj\Debug\MatrixMul.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MatrixMul\obj\Debug\MatrixMul.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MatrixMul\obj\Debug\MatrixMul.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MatrixMul\obj\Debug\MatrixMul.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MatrixMul\obj\Debug\MatrixMul.pdb
