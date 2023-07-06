@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Cloth\bin\Debug\Cloth.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Cloth\bin\Debug\Cloth.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Cloth\bin\Debug\Cloth.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Cloth\obj\Debug\Cloth.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Cloth\obj\Debug\Cloth.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Cloth\obj\Debug\Cloth.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Cloth\obj\Debug\Cloth.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Cloth\obj\Debug\Cloth.pdb
