@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfSumsOfConsecutiveSubsequences\bin\Debug\NumOfSumsOfConsecutiveSubsequences.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfSumsOfConsecutiveSubsequences\bin\Debug\NumOfSumsOfConsecutiveSubsequences.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfSumsOfConsecutiveSubsequences\bin\Debug\NumOfSumsOfConsecutiveSubsequences.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfSumsOfConsecutiveSubsequences\obj\Debug\NumOfSumsOfConsecutiveSubsequences.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfSumsOfConsecutiveSubsequences\obj\Debug\NumOfSumsOfConsecutiveSubsequences.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfSumsOfConsecutiveSubsequences\obj\Debug\NumOfSumsOfConsecutiveSubsequences.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfSumsOfConsecutiveSubsequences\obj\Debug\NumOfSumsOfConsecutiveSubsequences.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\NumOfSumsOfConsecutiveSubsequences\obj\Debug\NumOfSumsOfConsecutiveSubsequences.pdb
