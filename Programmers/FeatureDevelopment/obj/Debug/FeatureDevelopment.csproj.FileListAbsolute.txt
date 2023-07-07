@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FeatureDevelopment\bin\Debug\FeatureDevelopment.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FeatureDevelopment\bin\Debug\FeatureDevelopment.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FeatureDevelopment\bin\Debug\FeatureDevelopment.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FeatureDevelopment\obj\Debug\FeatureDevelopment.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FeatureDevelopment\obj\Debug\FeatureDevelopment.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FeatureDevelopment\obj\Debug\FeatureDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FeatureDevelopment\obj\Debug\FeatureDevelopment.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FeatureDevelopment\obj\Debug\FeatureDevelopment.pdb
