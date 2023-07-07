@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Fatigue\bin\Debug\Fatigue.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Fatigue\bin\Debug\Fatigue.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Fatigue\bin\Debug\Fatigue.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Fatigue\obj\Debug\Fatigue.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Fatigue\obj\Debug\Fatigue.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Fatigue\obj\Debug\Fatigue.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Fatigue\obj\Debug\Fatigue.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Fatigue\obj\Debug\Fatigue.pdb
