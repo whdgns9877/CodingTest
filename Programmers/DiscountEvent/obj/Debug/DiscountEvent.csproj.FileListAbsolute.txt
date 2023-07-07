@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DiscountEvent\bin\Debug\DiscountEvent.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DiscountEvent\bin\Debug\DiscountEvent.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DiscountEvent\bin\Debug\DiscountEvent.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DiscountEvent\obj\Debug\DiscountEvent.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DiscountEvent\obj\Debug\DiscountEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DiscountEvent\obj\Debug\DiscountEvent.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DiscountEvent\obj\Debug\DiscountEvent.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DiscountEvent\obj\Debug\DiscountEvent.pdb
