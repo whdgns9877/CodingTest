@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Process\obj\Debug\Process.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Process\obj\Debug\Process.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Process\obj\Debug\Process.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Process\bin\Debug\Process.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Process\bin\Debug\Process.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Process\bin\Debug\Process.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Process\obj\Debug\Process.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\Process\obj\Debug\Process.pdb
