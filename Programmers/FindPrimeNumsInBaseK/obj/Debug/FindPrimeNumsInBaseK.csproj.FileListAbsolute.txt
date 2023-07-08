@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNumsInBaseK\bin\Debug\FindPrimeNumsInBaseK.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNumsInBaseK\bin\Debug\FindPrimeNumsInBaseK.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNumsInBaseK\bin\Debug\FindPrimeNumsInBaseK.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNumsInBaseK\obj\Debug\FindPrimeNumsInBaseK.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNumsInBaseK\obj\Debug\FindPrimeNumsInBaseK.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNumsInBaseK\obj\Debug\FindPrimeNumsInBaseK.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNumsInBaseK\obj\Debug\FindPrimeNumsInBaseK.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNumsInBaseK\obj\Debug\FindPrimeNumsInBaseK.pdb
