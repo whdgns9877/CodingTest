@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BestAlbum\bin\Debug\BestAlbum.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BestAlbum\bin\Debug\BestAlbum.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BestAlbum\bin\Debug\BestAlbum.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BestAlbum\obj\Debug\BestAlbum.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BestAlbum\obj\Debug\BestAlbum.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BestAlbum\obj\Debug\BestAlbum.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BestAlbum\obj\Debug\BestAlbum.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BestAlbum\obj\Debug\BestAlbum.pdb
