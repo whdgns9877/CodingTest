@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TargetNumber\bin\Debug\TargetNumber.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TargetNumber\bin\Debug\TargetNumber.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TargetNumber\bin\Debug\TargetNumber.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TargetNumber\obj\Debug\TargetNumber.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TargetNumber\obj\Debug\TargetNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TargetNumber\obj\Debug\TargetNumber.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TargetNumber\obj\Debug\TargetNumber.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TargetNumber\obj\Debug\TargetNumber.pdb
