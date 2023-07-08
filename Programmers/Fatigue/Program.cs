@@ -20,7 +20,6 @@ namespace Fatigue
 
         public int solution(int k, int[,] dungeons)
         {
-            ints.Add(k);
             this.dungeons = dungeons;
             // 해당 노드를 방문했는지를 나타낼 배열
             visit = new bool[dungeons.GetLength(0)];
