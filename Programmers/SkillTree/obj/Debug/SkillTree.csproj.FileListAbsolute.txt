@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SkillTree\bin\Debug\SkillTree.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SkillTree\bin\Debug\SkillTree.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SkillTree\bin\Debug\SkillTree.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SkillTree\obj\Debug\SkillTree.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SkillTree\obj\Debug\SkillTree.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SkillTree\obj\Debug\SkillTree.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SkillTree\obj\Debug\SkillTree.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\SkillTree\obj\Debug\SkillTree.pdb
