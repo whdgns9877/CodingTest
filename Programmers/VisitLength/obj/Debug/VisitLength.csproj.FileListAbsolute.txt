@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VisitLength\bin\Debug\VisitLength.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VisitLength\bin\Debug\VisitLength.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VisitLength\bin\Debug\VisitLength.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VisitLength\obj\Debug\VisitLength.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VisitLength\obj\Debug\VisitLength.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VisitLength\obj\Debug\VisitLength.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VisitLength\obj\Debug\VisitLength.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VisitLength\obj\Debug\VisitLength.pdb
