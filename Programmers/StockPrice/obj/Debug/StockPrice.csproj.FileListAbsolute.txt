@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StockPrice\bin\Debug\StockPrice.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StockPrice\bin\Debug\StockPrice.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StockPrice\bin\Debug\StockPrice.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StockPrice\obj\Debug\StockPrice.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StockPrice\obj\Debug\StockPrice.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StockPrice\obj\Debug\StockPrice.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StockPrice\obj\Debug\StockPrice.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\StockPrice\obj\Debug\StockPrice.pdb
