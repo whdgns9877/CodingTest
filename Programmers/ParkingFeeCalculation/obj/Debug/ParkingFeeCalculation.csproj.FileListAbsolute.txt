@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ParkingFeeCalculation\bin\Debug\ParkingFeeCalculation.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ParkingFeeCalculation\bin\Debug\ParkingFeeCalculation.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ParkingFeeCalculation\bin\Debug\ParkingFeeCalculation.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ParkingFeeCalculation\obj\Debug\ParkingFeeCalculation.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ParkingFeeCalculation\obj\Debug\ParkingFeeCalculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ParkingFeeCalculation\obj\Debug\ParkingFeeCalculation.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ParkingFeeCalculation\obj\Debug\ParkingFeeCalculation.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ParkingFeeCalculation\obj\Debug\ParkingFeeCalculation.pdb
