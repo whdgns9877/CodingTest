@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ShortestDistanceInGameMap\bin\Debug\ShortestDistanceInGameMap.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ShortestDistanceInGameMap\bin\Debug\ShortestDistanceInGameMap.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ShortestDistanceInGameMap\bin\Debug\ShortestDistanceInGameMap.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ShortestDistanceInGameMap\obj\Debug\ShortestDistanceInGameMap.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ShortestDistanceInGameMap\obj\Debug\ShortestDistanceInGameMap.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ShortestDistanceInGameMap\obj\Debug\ShortestDistanceInGameMap.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ShortestDistanceInGameMap\obj\Debug\ShortestDistanceInGameMap.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\ShortestDistanceInGameMap\obj\Debug\ShortestDistanceInGameMap.pdb
