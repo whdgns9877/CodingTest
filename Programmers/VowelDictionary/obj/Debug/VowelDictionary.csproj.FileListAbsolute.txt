@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VowelDictionary\bin\Debug\VowelDictionary.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VowelDictionary\bin\Debug\VowelDictionary.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VowelDictionary\bin\Debug\VowelDictionary.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VowelDictionary\obj\Debug\VowelDictionary.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VowelDictionary\obj\Debug\VowelDictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VowelDictionary\obj\Debug\VowelDictionary.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VowelDictionary\obj\Debug\VowelDictionary.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\VowelDictionary\obj\Debug\VowelDictionary.pdb
