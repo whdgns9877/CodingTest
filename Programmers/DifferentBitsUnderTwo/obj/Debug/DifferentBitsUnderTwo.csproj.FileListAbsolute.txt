@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DifferentBitsUnderTwo\bin\Debug\DifferentBitsUnderTwo.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DifferentBitsUnderTwo\bin\Debug\DifferentBitsUnderTwo.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DifferentBitsUnderTwo\bin\Debug\DifferentBitsUnderTwo.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DifferentBitsUnderTwo\obj\Debug\DifferentBitsUnderTwo.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DifferentBitsUnderTwo\obj\Debug\DifferentBitsUnderTwo.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DifferentBitsUnderTwo\obj\Debug\DifferentBitsUnderTwo.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DifferentBitsUnderTwo\obj\Debug\DifferentBitsUnderTwo.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\DifferentBitsUnderTwo\obj\Debug\DifferentBitsUnderTwo.pdb
