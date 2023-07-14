@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BiggestNum\bin\Debug\BiggestNum.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BiggestNum\bin\Debug\BiggestNum.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BiggestNum\bin\Debug\BiggestNum.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BiggestNum\obj\Debug\BiggestNum.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BiggestNum\obj\Debug\BiggestNum.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BiggestNum\obj\Debug\BiggestNum.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BiggestNum\obj\Debug\BiggestNum.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\BiggestNum\obj\Debug\BiggestNum.pdb
