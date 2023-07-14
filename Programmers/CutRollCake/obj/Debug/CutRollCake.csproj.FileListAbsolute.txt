@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutRollCake\bin\Debug\CutRollCake.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutRollCake\bin\Debug\CutRollCake.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutRollCake\bin\Debug\CutRollCake.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutRollCake\obj\Debug\CutRollCake.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutRollCake\obj\Debug\CutRollCake.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutRollCake\obj\Debug\CutRollCake.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutRollCake\obj\Debug\CutRollCake.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CutRollCake\obj\Debug\CutRollCake.pdb
