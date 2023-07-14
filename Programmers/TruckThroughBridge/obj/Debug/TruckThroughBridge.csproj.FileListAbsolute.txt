@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TruckThroughBridge\bin\Debug\TruckThroughBridge.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TruckThroughBridge\bin\Debug\TruckThroughBridge.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TruckThroughBridge\bin\Debug\TruckThroughBridge.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TruckThroughBridge\obj\Debug\TruckThroughBridge.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TruckThroughBridge\obj\Debug\TruckThroughBridge.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TruckThroughBridge\obj\Debug\TruckThroughBridge.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TruckThroughBridge\obj\Debug\TruckThroughBridge.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TruckThroughBridge\obj\Debug\TruckThroughBridge.pdb
