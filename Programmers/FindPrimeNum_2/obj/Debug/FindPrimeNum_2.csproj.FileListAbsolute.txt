@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNum_2\bin\Debug\FindPrimeNum_2.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNum_2\bin\Debug\FindPrimeNum_2.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNum_2\bin\Debug\FindPrimeNum_2.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNum_2\obj\Debug\FindPrimeNum_2.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNum_2\obj\Debug\FindPrimeNum_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNum_2\obj\Debug\FindPrimeNum_2.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNum_2\obj\Debug\FindPrimeNum_2.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\FindPrimeNum_2\obj\Debug\FindPrimeNum_2.pdb
