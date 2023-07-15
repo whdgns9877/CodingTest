@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CountAfterQuadCompression\bin\Debug\CountAfterQuadCompression.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CountAfterQuadCompression\bin\Debug\CountAfterQuadCompression.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CountAfterQuadCompression\bin\Debug\CountAfterQuadCompression.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CountAfterQuadCompression\obj\Debug\CountAfterQuadCompression.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CountAfterQuadCompression\obj\Debug\CountAfterQuadCompression.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CountAfterQuadCompression\obj\Debug\CountAfterQuadCompression.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CountAfterQuadCompression\obj\Debug\CountAfterQuadCompression.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\CountAfterQuadCompression\obj\Debug\CountAfterQuadCompression.pdb
