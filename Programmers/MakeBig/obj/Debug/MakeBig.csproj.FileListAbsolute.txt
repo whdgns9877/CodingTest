@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeBig\bin\Debug\MakeBig.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeBig\bin\Debug\MakeBig.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeBig\bin\Debug\MakeBig.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeBig\obj\Debug\MakeBig.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeBig\obj\Debug\MakeBig.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeBig\obj\Debug\MakeBig.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeBig\obj\Debug\MakeBig.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\MakeBig\obj\Debug\MakeBig.pdb
