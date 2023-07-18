@@ -1,0 +1,8 @@
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TriangleArray\bin\Debug\TriangleArray.exe.config
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TriangleArray\bin\Debug\TriangleArray.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TriangleArray\bin\Debug\TriangleArray.pdb
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TriangleArray\obj\Debug\TriangleArray.csproj.AssemblyReference.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TriangleArray\obj\Debug\TriangleArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TriangleArray\obj\Debug\TriangleArray.csproj.CoreCompileInputs.cache
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TriangleArray\obj\Debug\TriangleArray.exe
+C:\Users\whdgn\Desktop\CodingTest\Programmers\TriangleArray\obj\Debug\TriangleArray.pdb
